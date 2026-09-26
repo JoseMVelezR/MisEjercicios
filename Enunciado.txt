@@ -1,0 +1,4 @@
+1. Deben realizar los 10 ejercicios
+2. En el archivo "Lo mas difícil.txt" detalle que es lo que mas se le dificultó
+3. Cada uno debe ser responsable de que sus cambios estén arriba.
+4. Solo deben existir 3 Pull Request en cada Rama.
